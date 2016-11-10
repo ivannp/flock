@@ -8,3 +8,7 @@ An R package implementing synchronization between R processes (spawned by using 
     file.lock = lock("~/file.lock")
     # Critical section code goes here
     unlock(file.lock)
+
+##Installation##
+
+    devtools::install_github("ivannp/flock")
