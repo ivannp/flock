@@ -1,7 +1,7 @@
 Package: flock
 Type: Package
 Title: Process Synchronization Using File Locks
-Version: 0.6
+Version: 0.7
 Date: 2016-11-10
 Author: Ivan Popivanov
 Maintainer: Ivan Popivanov <ivan.popivanov@gmail.com>
