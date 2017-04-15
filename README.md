@@ -9,6 +9,6 @@ An R package implementing synchronization between R processes (spawned by using 
     # Critical section code goes here
     unlock(file.lock)
 
-##Installation##
+## Installation
 
     devtools::install_github("ivannp/flock")
